@@ -1,0 +1,31 @@
+{
+  "name": "remibot",
+  "version": "1.0.0",
+  "description": "telegram bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vildulv/remibot.git"
+  },
+  "keywords": [
+    "rembibot",
+    "telegram",
+    "bot"
+  ],
+  "author": "hev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vildulv/remibot/issues"
+  },
+  "homepage": "https://github.com/Vildulv/remibot#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "node-telegram-bot-api": "^0.27.1"
+  },
+  "engines": {
+    "node": ">=5.6.0"
+  }
+}
